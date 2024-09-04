@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 data/Traffic_Crashes_-_Crashes_20240828.csv filter=lfs diff=lfs merge=lfs -text
 data/Traffic_Crashes_-_People_20240828.csv filter=lfs diff=lfs merge=lfs -text
+=======
+data/Traffic_Crashes_-_Crashes_20240828.csv filter=lfs diff=lfs merge=lfs -text
+data/Traffic_Crashes_-_People_20240828.csv filter=lfs diff=lfs merge=lfs -text
+>>>>>>> 522daab0a9510f6ed4c9e3330a0918d765659cfc
+*.csv filter=lfs diff=lfs merge=lfs -text
